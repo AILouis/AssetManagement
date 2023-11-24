@@ -66,7 +66,7 @@ Traits
 - No bid/ask spreads
 - No options
 - May have min. investment requirement
-- Allows automatic order using money from saving accounts
+- Allows automatic order using money from saving accounts (Automatically reinvest income received)
 - Allows fractional shares
 
 ETF: traded just like a stock
@@ -125,3 +125,11 @@ Total Pnl = Current share value + Income distributions (cash received) - Initial
 
 Income distributions = profits from div and interests
 Capital distributions = Current price - initial investment
+
+Mutual Fund Price = NAV per share/ (100% - Sales Charge %)
+
+For investors,
+Ask price (when they buy) = NAV + any fees
+Bid price (when they redeem) = NAV only
+
+
