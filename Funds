@@ -31,7 +31,7 @@ Types of Funds
 
 - Closed-End funds (CEF)
     - Constant no. of shares, traded publicly
-    - no new shares can be created
+    - no new shares can be created, nor redeemed
 
 - Unit Investment Trusts (UIT)
     - CEF with predefined periods of investments (hv an expiration date on what investments are held in the portfolio: redeem any PnL on that date)
@@ -52,3 +52,76 @@ Types of Funds
 - Managed futures
 - Annuities
 
+
+
+Mutual Fund Company
+- A company that receive money from investors and invest
+- Under ICA
+
+Mutual Fund
+- The portfolio of investments
+- Less risky but also less profitable than a single underlying such as stocks
+Traits
+- Can only execute orders at the end of day. Price/share = NAV
+- No bid/ask spreads
+- No options
+- May have min. investment requirement
+- Allows automatic order using money from saving accounts
+- Allows fractional shares
+
+ETF: traded just like a stock
+- Allows different types of orders E.g. limit/ stop/ short-sell
+- Options
+- Buy on margin
+- Prices may differ sig. from NAV
+- Have bid/ask spreads
+- ...
+No min. deposit requirement
+Cannot be bought automatically using money from saving accounts
+Low fees charged cuz components X change too often
+Tax advantages
+No fractional shares
+
+Open-End Mutual funds
+- offers shares continuously and may redeem the shares (If investors want out)
+- To prepare for the redeem by investors, they must keep a lot of cash or sell securities to get cash < may reduce return for other investors < Cost more fees
+- Purchased at NAV from fund at end of day
+- NAV = (Total Assets - Total Liabilities)/ No of Outstanding Shares = Value of Fund/ No of Outstanding Shares
+
+Close-End (Mutual) funds
+- Only do a IPO and no more share issuance < Money got will be used to invest
+- Investors can only trade in secondary market (stock exchange) like stocks (CEF will not redeem)
+- Have NAV but not too meaningful cuz cannot use arbitrage to equalize the price (Main difference with ETFs)
+- often trade at discount in secondary mkt
+
+ETF vs CEF
+- ETFs can arbitrage, as theres a mechanism that allows ETF issuers (Autorizd Participants) to exchange ETF with component stocks
+- Price and NAV will be approx. equal but not exactly because of "frictions" in the market
+- E.g. If price > NAV, APs buy component stocks from mkt -> Exchange to ETF shares -> sell ETF shares on mkt
+
+First ETF: SPY (SPDR/ Spider) that tracks SPX
+
+2019 onwards, Fund Managers can convert mutual fund to ETFs
+Fractional shares of former mutual funds will be redeemed as ETF X hv fractional shares
+Advantages:
+- For investors: Lower fees as ETFs X need to pay redemptions and hv lower tax
+- For fund managers: investors stays during conversion, hence no need to market new ETF
+
+Maybe the only disadvantages of ETFs are 1/ hv spreads 2/ price may not be exactly the same as NAV 3/ maybe illiquid (while for mutual funds investors can exit at anytime)
+
+Expense Ratio = Total Operating Expenses/ Avg NAV
+All others being equal, the lower the better
+
+
+Measuring Mutual fund performance
+1/ NAV
+
+2/ Yield = Income Distribution per Share/ Price per share
+Income Distribution per Share = Dividend or interests earned
+
+3/ Total Return
+Total Pnl = Current share value + Income distributions (cash received) - Initial investment(+fees)
+          = Capital + Income distributions
+
+Income distributions = profits from div and interests
+Capital distributions = Current price - initial investment
