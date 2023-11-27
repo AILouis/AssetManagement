@@ -89,10 +89,13 @@ Open-End Mutual funds
 - NAV = (Total Assets - Total Liabilities)/ No of Outstanding Shares = Value of Fund/ No of Outstanding Shares
 
 Close-End (Mutual) funds
-- Only do a IPO and no more share issuance < Money got will be used to invest
+- Only do a IPO and no more share issuance of shares < Money got will be used to invest
 - Investors can only trade in secondary market (stock exchange) like stocks (CEF will not redeem)
 - Have NAV but not too meaningful cuz cannot use arbitrage to equalize the price (Main difference with ETFs)
 - often trade at discount in secondary mkt
+Since there is no redemption (unlike OEF),
+- The fund don't need to hold cash < Hence less money is needed to manage the fund (Fund is more fully invested)
+- Can invest in more illiquid securities (X hv to maintain liquidity for redemption)
 
 ETF vs CEF
 - ETFs can arbitrage, as theres a mechanism that allows ETF issuers (Autorizd Participants) to exchange ETF with component stocks
@@ -131,5 +134,10 @@ Mutual Fund Price = NAV per share/ (100% - Sales Charge %)
 For investors,
 Ask price (when they buy) = NAV + any fees
 Bid price (when they redeem) = NAV only
+
+
+
+
+
 
 
